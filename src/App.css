@@ -1,0 +1,28 @@
+.App{
+  height: 100%;
+  background-image: linear-gradient(to right, #000424, #c30aaa , #000424);
+  color: white;
+}
+h1{
+  text-align: center;
+}
+form{
+  text-align: center;
+}
+form input{
+  height: 20px;
+  padding: 10px;
+  border: 2px solid orange;
+}
+form button{
+  height: 40px;
+  padding: 10px;
+  border: 2px solid orange;
+  background-color: red;
+  border-radius: 30px;
+  color: white;
+}
+.card{
+  background-color: #000424;
+  margin: 10px;
+}
